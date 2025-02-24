@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 1</title>
+</head>
+<hr>
+<h1>Apresentação</h1>
+<hr>
+<h2><u>José Gabriel Silva Gondim</u></h2>
+<h3>Sobre mim:</h3>
+<body>
+    <h4>Oi, me chamo Gabriel Gondim, tenho 23 anos, sou técnico em informática há mais de 5 anos, trabalho profissionalmente como TI de uma empresa do setor eólico na minha cidade. Sou especializado em manutenção de hardware em computadores, notebooks e smartphones. Atualmente estou focado em aprimorar ainda mais minhas habilidades e por esse motivo escolhi a programação.
+    </h4>
+   <hr>
+    <h3><b>Habilidades:</b></h3>
+    <ul><h4><li>Atendimento ao cliente</li></h4>
+        <h4><li>Helpdesk</li></h4>
+        <h4><li>Manutenção em aparelhos eletronicos no geral</li></h4>
+        <h4><li>Pacote Office</li></h4>
+        <h4><li>Azure</li></h4></ul>
+        
+<hr>
+        <h3><b>Experiência:</b></h3>
+<ul>
+    <h4><li>Encarregado de TI em uma empresa de administração de condomínios</li></h4>
+    <h4><li>Técnico em informática em um empresa do setor eólico</li></h4>
+    <h4><li>Autônomo em manutenções de celulares e computadores no geral</li></h4>
+</ul>
+<hr>
+<h3>Contato</h3>
+
+<li><b>Telefone/WhatsApp:</b> <a href="https://api.whatsapp.com/send?phone=%205577991697156&text=Ol%C3%A1+" target="_blank">77991697156</a></li>
+<li><b>E-mail:</b> <a href="mailto:bielgondim95@gmail.com" target="_blank">bielgondim95@gmail.com</a></li>
+<br><br>
+
+</body>
+</html>
